@@ -2,7 +2,7 @@
  <img src="docs/static/img/logo_dark.svg" alt="erxes logo" width="20%" />
 </p>
 
-<p align="center">erxes is an open fair-code licensed all-in-one growth marketing & management software. We offer an all-in-one solution for sales, marketing, and customer service teams, with a focus on the entire customer experience.</p
+<p align="center">erxes is a free and open fair-code licensed all-in-one growth marketing & management software. We offer an all-in-one solution for sales, marketing, and customer service teams, with a focus on the entire customer experience.</p>
 
 <p align="center"><a href="https://demo.erxes.io/">Live demo</a> <b>| </b> <a href="https://community.erxes.io/register/Gw4WRJnk9fSbyAXTq">Join our community</a></p>
 
@@ -36,16 +36,16 @@
 </p>
 
 <p align="center">
- <a href="https://erxes.org" target="_blank"><img src="https://erxes-os.s3-us-west-2.amazonaws.com/github/git-erxes.gif" alt="Open Source Growth Marketing Platform "></a>
+ <a href="https://erxes.io" target="_blank"><img src="https://erxes-os.s3-us-west-2.amazonaws.com/github/git-erxes.gif" alt="Open Source Growth Marketing Platform "></a>
 </p>
 
 ## Features
 
 <img src="https://s3.amazonaws.com/erxes/github/features-transparent.png" width="400" align="right" style="max-width: 50%">
 
-erxes helps you attract and engage more customers while helping you achieve high lead conversion. With erxes, all your marketing, sales, and customer service tools are merged into one platform for greater output.
+erxes helps you to attract and engage more customers while helping you achieve high lead conversion. With erxes, all your marketing, sales, and customer service tools are merged on a single platform for greater output.
 
-- **Growth Hacking:** Manage your entire growth operation easily. Erxes makes growing a pleasure by consolidating ideas and making actual performance a reality. Erxes makes sure everything is recorded, prioritized, and centralized in a single platform.
+- **Growth Hacking:** Manage your entire growth operation easily. Erxes makes growing a pleasure by consolidating ideas and making actual performance a reality. Erxes makes sure everything is recorded, prioritized, and centralized on a single platform.
 - **Email & SMS Marketing:** Reach your customers with personalized messaging. Keeping your customers hooked is a challenge. Start converting your prospects into potential customers through email, SMS, Live chat, Botpress and In-app-messaging and more interactions to drive them to a successful close. You can connect to your customers in a whole new complete way with erxes!
 - **Pop-ups & Forms:** Create Stylish Pop-ups and Forms that bring you leads. Turn regular visitors into qualified leads by capturing them with customizable pop-ups, forms, and embedded placements. Erxes helps you to create stylish and contextual pop-ups, banners and announcement bars to fit all your marketing needs.
 - **Sales Pipeline:** Track your entire sales pipeline from one dashboard. All your customer information and sales process is there in one board to follow up flawlessly. Have your sales managers know everything needed to deliver increased levels of personalization when they contact customers.
